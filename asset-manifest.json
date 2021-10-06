@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/HeadphoneHookup/static/js/main.55a53134.chunk.js",
+    "main.js.map": "/HeadphoneHookup/static/js/main.55a53134.chunk.js.map",
+    "runtime-main.js": "/HeadphoneHookup/static/js/runtime-main.6da64f1f.js",
+    "runtime-main.js.map": "/HeadphoneHookup/static/js/runtime-main.6da64f1f.js.map",
+    "static/js/2.ca560258.chunk.js": "/HeadphoneHookup/static/js/2.ca560258.chunk.js",
+    "static/js/2.ca560258.chunk.js.map": "/HeadphoneHookup/static/js/2.ca560258.chunk.js.map",
+    "index.html": "/HeadphoneHookup/index.html",
+    "static/js/2.ca560258.chunk.js.LICENSE.txt": "/HeadphoneHookup/static/js/2.ca560258.chunk.js.LICENSE.txt",
+    "static/media/commerce.ef82b889.png": "/HeadphoneHookup/static/media/commerce.ef82b889.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6da64f1f.js",
+    "static/js/2.ca560258.chunk.js",
+    "static/js/main.55a53134.chunk.js"
+  ]
+}
